@@ -1,0 +1,86 @@
+{
+    "client": {
+        "setting": {
+            "name": "bacon",
+            "slug": "bacon",
+            "email": "hi@st1s.io",
+            "logo": "/assets/images/logo.png",
+            "version": "0.0.1",
+            "title": "bacon",
+            "locale": "en_US",
+            "baseUrl": "http://www.bacon.com",
+            "titleSeparator": " — ",
+            "description": "bacon",
+            "keywords": "",
+            "icon": "/assets/favicon.png",
+            "copyright": "",
+            "ogLocale": "en_US",
+            "ogSiteName": "bacon",
+            "ogTitle": "bacon",
+            "ogDescription": "bacon",
+            "ogUrl": "http://www.bacon.com",
+            "ogImage": "",
+            "articleSection": "",
+            "articleTag": "",
+            "session": 1800,
+            "firebase": {
+                "apiKey": "",
+                "authDomain": "",
+                "databaseURL": "",
+                "storageBucket": ""
+            },
+            "wiki": {
+                "git": "https://github.com/user/bacon.wiki.git",
+                "basePath": "/docs/"
+            },
+            "facebook": {},
+            "google": {}
+        }
+    },
+    "email": {
+        "logo": "http://i.imgur.com/8yh0COR.png",
+        "footer": ""
+    },
+    "server": {
+        "development": {
+            "enviroment": "development",
+            "api": {
+                "url": "http://localhost:9000"
+            },
+            "mongo": {
+                "uri": "mongodb://localhost/bacon-server-dev"
+            }
+        },
+        "production": {
+            "enviroment": "production",
+            "api": {
+                "url": "https://bacon-server.herokuapp.com"
+            }
+        }
+    },
+    "deployment": {
+        "heroku": {
+            "client": "bacon-client",
+            "server": "bacon-server"
+        },
+        "github": {
+            "client": "st1s/bacon-client"
+        }
+    },
+    "sparkpost": {
+        "template": ""
+    },
+    "firebase": {
+        "databaseURL": "",
+        "type": "",
+        "project_id": "",
+        "client_email": "",
+        "client_id": "",
+        "auth_uri": "",
+        "token_uri": "",
+        "auth_provider_x509_cert_url": "",
+        "client_x509_cert_url": "",
+        "private_key_id":"",
+        "private_key": ""
+    }
+}

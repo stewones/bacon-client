@@ -1,0 +1,11 @@
+{
+  "name": "bacon",
+  "version": "0.0.1",
+  "dependencies": {
+    "appfy": "latest",
+    "appfy-error": "latest"
+  },
+  "resolutions": {
+    "angular": "~1.5.3"
+  }
+}

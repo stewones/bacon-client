@@ -1,0 +1,2 @@
+# bacon-client
+> Repositório do post [Gerando uma aplicação angular.js em 3min - Publicação no Heroku e Github Pages](https://st1s.io/angularjs/2016/08/22/gerando-uma-app-angular-em-3min-e-publicando-no-heroku-ou-github-pages.html)
